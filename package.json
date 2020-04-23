@@ -10,9 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "gatsby"
-  ],
+  "keywords": [ "gatsby", "gatsby-plugin", "gatsby-transformer-plugin", "markdown"  ],
   "author": "Kapil Gorve kapil.gorve@gmail.com",
   "license": "MIT"
 }
